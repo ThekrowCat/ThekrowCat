@@ -61,11 +61,3 @@
 </div>
 
 ###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/31suylatlnkhfd44mswzh5ltg6u4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31suylatlnkhfd44mswzh5ltg6u4&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
